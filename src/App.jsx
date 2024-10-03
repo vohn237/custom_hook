@@ -1,12 +1,11 @@
-import React from 'react'
-import FetchData from './Components/FetchData'
+import FetchData from './Components/FetchData';
 
 function App() {
   return (
- <>
- <FetchData/>
- </>
-  )
+    <>
+      <FetchData />
+    </>
+  );
 }
 
-export default App
+export default App;
